@@ -10,4 +10,4 @@ EFI configuration for running macOS os Lenovo v570
 **WiFi**: Intel Corporation Centrino Wireless-N + WiMAX 6150 [Not Supported]  
 **Ethernet**: Realtek RTL8111/8168/8411  
 **RAM**: 8GB   
-**SDD**: SAMSUNG 840 PRo 128GB  
+**SDD**: SAMSUNG 840 PRO 128GB  

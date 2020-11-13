@@ -1,6 +1,8 @@
 # Lenovo v570 macOS
 EFI configuration for running macOS os Lenovo v570
 
+## NOTE: Works fine with me but your mileage may vary.
+
 **macOS Version**: 10.13.6 (iGPU is not supported after this version)  
 **Download**: [Lenovo-v570-EFI_v0.3.zip](https://github.com/talhabalaj/Lenovo-v570-macOS/releases/tag/v0.3)
 
